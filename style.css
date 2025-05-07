@@ -1,0 +1,24 @@
+body{
+  background-image: url('background.jpg');
+}
+#one{
+  color:darkcyan;
+  margin-top:30px;
+  text-align:center;
+  font-family: cursive;
+}
+#two{
+  color:white;
+  text-align:center;
+  margin-top:50px;
+}
+#thre{
+  color:white;
+  text-align:center;
+}
+#four{
+  text-align:center;
+  margin-top:50px;
+  color:darkred;
+
+}
